@@ -4,7 +4,7 @@
 
 `npm run build` builds final project in dist folder
 
-Documentation for RenderBlocks => https://github.com/AlexMercedCoder/mBlocks
+Documentation for RenderBlocks => https://github.com/AlexMercedCoder/RenderBlocks
 
 - Keep in mind components made with this library use the shadow dom so you'll need to create the styling from within the shadow dom. To use sass in the shadow dom you need to modify webpack so the Sass is turned into a css string that can then be interpolated into style tags in your components shadow dom.
 
